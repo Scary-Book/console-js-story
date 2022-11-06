@@ -1,16 +1,28 @@
 {
-  "name": "console-js",
-  "version": "1.0.1-beta",
-  "description": "console java script story.",
+  "name": "console-js-story",
+  "version": "1.0.0-beta",
+  "description": "console javascript story.",
   "main": "Aa.js",
-  "scripts": {
+  "scripts": { 
+    "None": "node Aa.js stotow none",
+    "Jone": "node Aa.js stotow Jone",
+    "Dneire": "node Aa.js stotow Dneire",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "story",
     "js",
-    "console."
+    "console",
+    "javascript"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Scary-Book/console-js-story"
+  },
+  "bugs": {
+    "url": "https://github.com/Scary-Book/console-js-story"
+  },
+  "homepage": "https://github.com/Scary-Book/console-js-story",
   "author": "Scary-Book <zowscarya@gmail.com>",
   "license": "ISC",
   "dependencies": {
