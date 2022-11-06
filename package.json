@@ -1,0 +1,19 @@
+{
+  "name": "console-js",
+  "version": "1.0.1-beta",
+  "description": "console java script story.",
+  "main": "Aa.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "story",
+    "js",
+    "console."
+  ],
+  "author": "Scary-Book <zowscarya@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
